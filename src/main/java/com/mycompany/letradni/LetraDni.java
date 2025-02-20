@@ -6,7 +6,7 @@ package com.mycompany.letradni;
 
 /**
  * Clase LetraDni que permite calcular y verificar la letra de un DNI.
- * @author seven
+ * @author seven, ainhoa
  */
 public class LetraDni {
     
